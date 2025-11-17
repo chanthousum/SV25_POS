@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SV25_POS\\Models\\User.cs",
+              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Models\\User.cs",
+              "RelativeToolTip": "SV25_POS\\Models\\User.cs",
+              "ViewState": "AgIAAN8AAADQmJmZmZkywOYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:02:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "RelativeDocumentMoniker": "SV25_POS\\Views\\Users\\UserForm.cs",
+              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "RelativeToolTip": "SV25_POS\\Views\\Users\\UserForm.cs",
+              "ViewState": "AgIAAEsAAADAlpmZmZkTwFIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:54:07.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "RelativeDocumentMoniker": "SV25_POS\\Views\\Users\\UserForm.cs",
+              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs [Design]",
+              "RelativeToolTip": "SV25_POS\\Views\\Users\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:53:41.685Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
