@@ -32,17 +32,19 @@
             this.cboRoleName = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.rInactive = new System.Windows.Forms.RadioButton();
-            this.rActive = new System.Windows.Forms.RadioButton();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.rFemale = new System.Windows.Forms.RadioButton();
-            this.rMale = new System.Windows.Forms.RadioButton();
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.rFemale = new System.Windows.Forms.RadioButton();
+            this.rMale = new System.Windows.Forms.RadioButton();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.rActive = new System.Windows.Forms.RadioButton();
+            this.rInactive = new System.Windows.Forms.RadioButton();
             this.btnCreate = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
@@ -51,13 +53,11 @@
             this.dgUser = new System.Windows.Forms.DataGridView();
             this.txtSearch = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgUser)).BeginInit();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgUser)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -107,28 +107,6 @@
             this.label6.TabIndex = 11;
             this.label6.Text = "Status";
             // 
-            // rInactive
-            // 
-            this.rInactive.AutoSize = true;
-            this.rInactive.Checked = true;
-            this.rInactive.Location = new System.Drawing.Point(260, 19);
-            this.rInactive.Name = "rInactive";
-            this.rInactive.Size = new System.Drawing.Size(156, 41);
-            this.rInactive.TabIndex = 10;
-            this.rInactive.TabStop = true;
-            this.rInactive.Text = "Inactive";
-            this.rInactive.UseVisualStyleBackColor = true;
-            // 
-            // rActive
-            // 
-            this.rActive.AutoSize = true;
-            this.rActive.Location = new System.Drawing.Point(19, 19);
-            this.rActive.Name = "rActive";
-            this.rActive.Size = new System.Drawing.Size(134, 41);
-            this.rActive.TabIndex = 9;
-            this.rActive.Text = "Active";
-            this.rActive.UseVisualStyleBackColor = true;
-            // 
             // txtEmail
             // 
             this.txtEmail.Location = new System.Drawing.Point(245, 242);
@@ -170,6 +148,32 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "Gender";
             // 
+            // txtUserName
+            // 
+            this.txtUserName.Location = new System.Drawing.Point(245, 42);
+            this.txtUserName.Name = "txtUserName";
+            this.txtUserName.Size = new System.Drawing.Size(615, 44);
+            this.txtUserName.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(26, 45);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(188, 37);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "User Name ";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.rFemale);
+            this.groupBox3.Controls.Add(this.rMale);
+            this.groupBox3.Location = new System.Drawing.Point(245, 97);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(615, 72);
+            this.groupBox3.TabIndex = 14;
+            this.groupBox3.TabStop = false;
+            // 
             // rFemale
             // 
             this.rFemale.AutoSize = true;
@@ -192,21 +196,37 @@
             this.rMale.Text = "Male";
             this.rMale.UseVisualStyleBackColor = true;
             // 
-            // txtUserName
+            // groupBox4
             // 
-            this.txtUserName.Location = new System.Drawing.Point(245, 42);
-            this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(615, 44);
-            this.txtUserName.TabIndex = 1;
+            this.groupBox4.Controls.Add(this.rActive);
+            this.groupBox4.Controls.Add(this.rInactive);
+            this.groupBox4.Location = new System.Drawing.Point(245, 291);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(615, 78);
+            this.groupBox4.TabIndex = 15;
+            this.groupBox4.TabStop = false;
             // 
-            // label1
+            // rActive
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(26, 45);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(188, 37);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "User Name ";
+            this.rActive.AutoSize = true;
+            this.rActive.Location = new System.Drawing.Point(19, 19);
+            this.rActive.Name = "rActive";
+            this.rActive.Size = new System.Drawing.Size(134, 41);
+            this.rActive.TabIndex = 9;
+            this.rActive.Text = "Active";
+            this.rActive.UseVisualStyleBackColor = true;
+            // 
+            // rInactive
+            // 
+            this.rInactive.AutoSize = true;
+            this.rInactive.Checked = true;
+            this.rInactive.Location = new System.Drawing.Point(260, 19);
+            this.rInactive.Name = "rInactive";
+            this.rInactive.Size = new System.Drawing.Size(156, 41);
+            this.rInactive.TabIndex = 10;
+            this.rInactive.TabStop = true;
+            this.rInactive.Text = "Inactive";
+            this.rInactive.UseVisualStyleBackColor = true;
             // 
             // btnCreate
             // 
@@ -277,7 +297,7 @@
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(931, 23);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(1506, 728);
+            this.groupBox2.Size = new System.Drawing.Size(1346, 728);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             // 
@@ -296,7 +316,7 @@
             this.dgUser.RowHeadersWidth = 82;
             this.dgUser.RowTemplate.Height = 33;
             this.dgUser.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgUser.Size = new System.Drawing.Size(1454, 604);
+            this.dgUser.Size = new System.Drawing.Size(1294, 604);
             this.dgUser.TabIndex = 4;
             this.dgUser.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgRole_CellDoubleClick);
             // 
@@ -317,32 +337,12 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Search By :";
             // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.rFemale);
-            this.groupBox3.Controls.Add(this.rMale);
-            this.groupBox3.Location = new System.Drawing.Point(245, 97);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(615, 72);
-            this.groupBox3.TabIndex = 14;
-            this.groupBox3.TabStop = false;
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.Controls.Add(this.rActive);
-            this.groupBox4.Controls.Add(this.rInactive);
-            this.groupBox4.Location = new System.Drawing.Point(245, 291);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(615, 78);
-            this.groupBox4.TabIndex = 15;
-            this.groupBox4.TabStop = false;
-            // 
             // UserForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(2458, 1010);
+            this.ClientSize = new System.Drawing.Size(2298, 1010);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.btnNew);
             this.Controls.Add(this.btnDelete);
@@ -355,13 +355,13 @@
             this.Load += new System.EventHandler(this.RoleForm_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgUser)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgUser)).EndInit();
             this.ResumeLayout(false);
 
         }

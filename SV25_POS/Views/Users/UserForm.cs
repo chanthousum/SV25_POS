@@ -63,15 +63,34 @@ namespace SV25_POS.Views.Users
 
         private void dgRole_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            role = new Role();
-            role.TransferDataToControls(dgUser, txtUserName);
+            user = new User();
+            user.TransferDataToControls(dgUser, txtUserName, rMale, rFemale, txtPassword, txtEmail, rActive, rInactive, cboRoleName);
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            role=new Role();
-            role.RoleName = txtUserName.Text.Trim();
-            role.UpdateById(dgUser);
+            user=new User();
+            user.UserName = txtUserName.Text.Trim();
+            if (rMale.Checked)
+            {
+                user.Gender = rMale.Text;
+            }
+            else
+            {
+                user.Gender = rFemale.Text;
+            }
+            user.Password = txtPassword.Text.Trim();
+            user.Email = txtEmail.Text.Trim();
+            if (rActive.Checked)
+            {
+                user.Status = true;
+            }
+            else
+            {
+                user.Status = false;
+            }
+            user.RoleId = user.GetRoleId(cboRoleName);
+            user.UpdateById(dgUser);
         }
 
         private void txtSearch_KeyPress(object sender, KeyPressEventArgs e)
