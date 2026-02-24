@@ -27,3 +27,83 @@ X:\Documents\SETEC\C# Programming\C# III\SV25\SV25_POS\SV25_POS\obj\Debug\SV25_P
 X:\Documents\SETEC\C# Programming\C# III\SV25\SV25_POS\SV25_POS\obj\Debug\SV25_POS.pdb
 X:\Documents\SETEC\C# Programming\C# III\SV25\SV25_POS\SV25_POS\obj\Debug\SV25_POS.exe.config
 X:\Documents\SETEC\C# Programming\C# III\SV25\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.UserForm.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\bin\Debug\SV25_POS.exe.config
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\bin\Debug\SV25_POS.exe
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\bin\Debug\SV25_POS.pdb
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Form1.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Properties.Resources.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.DashbardForm.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.LogInForm.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.UserForm.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.RoleForm.resources
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.exe
+C:\Users\Administrator\Documents\SETEC\SV25_POS\SV25_POS\obj\Debug\SV25_POS.pdb
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\SV25_POS.exe.config
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\SV25_POS.exe
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\SV25_POS.pdb
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Form1.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Properties.Resources.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Products.AddStockForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Products.PaymentForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.ProductForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.products.SaleForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV15_POS.Views.products.StockForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.DashbardForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.LogInForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.UserForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.Views.Users.RoleForm.resources
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.csproj.Up2Date
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.exe
+C:\Users\Administrator\Documents\SETEC\C# Programming\C# III\SV25_POS\SV25_POS\obj\Debug\SV25_POS.pdb

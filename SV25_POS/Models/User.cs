@@ -20,6 +20,7 @@ namespace SV25_POS.Models
         public string Sql { get; set; } = "";
         public static string LogInUserName { get; set; }
         public static int LogInUserId { get; set; }
+        public static string RoleName { get; set; }="";
         private string _sql = "";
         private int _RowEffectd;
         DataGridViewRow DGV = null;
@@ -29,7 +30,7 @@ namespace SV25_POS.Models
             try
             {
                 Database.ConnectionDb();
-                this.Sql = "select * from tblUser where UserName=@UserName and Password=@Password and Status=1";
+                this.Sql = "select * from View_User_Role1 where UserName=@UserName and Password=@Password and Status=1";
                 Database.Cmd=new SqlCommand(this.Sql,Database.Con);
                 Database.Cmd.Parameters.AddWithValue("@UserName", this.UserName);
                 Database.Cmd.Parameters.AddWithValue("@Password", this.Password);
@@ -42,6 +43,7 @@ namespace SV25_POS.Models
                     DashbardForm dashbardForm = new DashbardForm();
                     User.LogInUserName = this.UserName;
                     User.LogInUserId = int.Parse(Database.tbl.Rows[0]["Id"].ToString());
+                    User.RoleName = Database.tbl.Rows[0]["RoleName"].ToString();
                     form.Hide();
                     dashbardForm.Show();
                 }

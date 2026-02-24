@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JdiU70D/Gjc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\SV25_POS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+  ],
+  "logs": []
+}

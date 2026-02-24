@@ -1,18 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|c:\\users\\administrator\\documents\\setec\\c# programming\\c# iii\\sv25_pos\\sv25_pos\\views\\products\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\views\\products\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SV25_POS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\sv25_pos\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|x:\\documents\\setec\\c# programming\\c# iii\\sv25\\sv25_pos\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|solutionrelative:sv25_pos\\views\\users\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAC669E-0729-44DB-89E5-04F5AD7BF848}|SV25_POS\\SV25_POS.csproj|c:\\users\\administrator\\documents\\setec\\c# programming\\c# iii\\sv25_pos\\sv25_pos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +36,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SV25_POS",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\SV25_POS.csproj",
+              "RelativeDocumentMoniker": "SV25_POS\\SV25_POS.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\SV25_POS.csproj*",
+              "RelativeToolTip": "SV25_POS\\SV25_POS.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-10T12:08:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "SV25_POS\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Models\\Sale.cs",
+              "RelativeToolTip": "SV25_POS\\Models\\Sale.cs",
+              "ViewState": "AgIAAGkAAAAA08zMzEwZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:54:19.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Products\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SV25_POS\\Views\\Products\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Products\\SaleForm.cs [Design]",
+              "RelativeToolTip": "SV25_POS\\Views\\Products\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:54:09.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Models\\User.cs",
               "RelativeDocumentMoniker": "SV25_POS\\Models\\User.cs",
-              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Models\\User.cs",
               "RelativeToolTip": "SV25_POS\\Models\\User.cs",
               "ViewState": "AgIAAN8AAADQmJmZmZkywOYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserForm.cs",
-              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
               "RelativeDocumentMoniker": "SV25_POS\\Views\\Users\\UserForm.cs",
-              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
               "RelativeToolTip": "SV25_POS\\Views\\Users\\UserForm.cs",
               "ViewState": "AgIAAEsAAADAlpmZmZkTwFIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserForm.cs [Design]",
-              "DocumentMoniker": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs",
               "RelativeDocumentMoniker": "SV25_POS\\Views\\Users\\UserForm.cs",
-              "ToolTip": "X:\\Documents\\SETEC\\C# Programming\\C# III\\SV25\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\SETEC\\C# Programming\\C# III\\SV25_POS\\SV25_POS\\Views\\Users\\UserForm.cs [Design]",
               "RelativeToolTip": "SV25_POS\\Views\\Users\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T11:53:41.685Z",

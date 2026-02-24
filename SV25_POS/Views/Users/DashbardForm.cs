@@ -1,4 +1,6 @@
-﻿using SV25_POS.Models;
+﻿using SV15_POS.Views.products;
+using SV25_POS.Models;
+using SV25_POS.Views.products;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,6 +20,7 @@ namespace SV25_POS.Views.Users
         public DashbardForm()
         {
             InitializeComponent();
+            
         }
 
         private void ShowNewForm(object sender, EventArgs e)
@@ -115,6 +118,16 @@ namespace SV25_POS.Views.Users
         private void DashbardForm_Load(object sender, EventArgs e)
         {
             toolStripStatusLabelUsername.Text=User.LogInUserName;
+            toolStripStatusLabelRoleName.Text = "Role Name :" + User.RoleName;
+            if (User.RoleName == "Admin")
+            {
+                securitysToolStripMenuItem.Enabled = true;
+                inventoryStockToolStripMenuItem.Enabled = true;
+            }
+            else
+            {
+                inventoryStockToolStripMenuItem.Enabled = true;
+            }
         }
 
         private void roleManagementToolStripMenuItem_Click(object sender, EventArgs e)
@@ -129,6 +142,20 @@ namespace SV25_POS.Views.Users
             UserForm userForm = new UserForm();
             userForm.MdiParent = this;
             userForm.Show();
+        }
+
+        private void productToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ProductForm productForm = new ProductForm();
+            productForm.MdiParent = this;
+            productForm.Show();
+        }
+
+        private void saleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaleForm productForm = new SaleForm();
+            productForm.MdiParent = this;
+            productForm.Show();
         }
     }
 }

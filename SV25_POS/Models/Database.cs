@@ -11,7 +11,7 @@ namespace SV25_POS.Models
 {
     public class Database
     {
-        public static SqlConnection Con = new SqlConnection(@"Data Source=SUM-CHANTHO5D8B\SQLEXPRESS_2012;Initial Catalog=SV25_POS_DB;Persist Security Info=True;User ID=sa;Password=Password123@;Encrypt=False");
+        public static SqlConnection Con = new SqlConnection(@"Data Source=.;Initial Catalog=SV25_POS_DB;Persist Security Info=True;User ID=sa;Password=Password123@;Encrypt=False");
         public static SqlCommand Cmd=null;
         public static SqlDataAdapter da = null;
         public static DataTable tbl = null;
