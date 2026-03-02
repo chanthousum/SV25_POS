@@ -52,7 +52,7 @@ namespace SV25_POS.Views.Products
         private void PaymentForm_Load(object sender, EventArgs e)
         {
 
-            this.reportViewer1.RefreshReport();
+             
         }
     }
 }

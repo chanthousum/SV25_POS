@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.8": {
+    ".NETFramework,Version=v4.7.2": {
       "Microsoft.ReportingServices.ReportViewerControl.Winforms/150.1652.0": {
         "type": "package",
         "dependencies": {
@@ -154,7 +154,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8/win": {
+    ".NETFramework,Version=v4.7.2/win": {
       "Microsoft.ReportingServices.ReportViewerControl.Winforms/150.1652.0": {
         "type": "package",
         "dependencies": {
@@ -307,7 +307,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8/win-arm64": {
+    ".NETFramework,Version=v4.7.2/win-arm64": {
       "Microsoft.ReportingServices.ReportViewerControl.Winforms/150.1652.0": {
         "type": "package",
         "dependencies": {
@@ -460,7 +460,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8/win-x64": {
+    ".NETFramework,Version=v4.7.2/win-x64": {
       "Microsoft.ReportingServices.ReportViewerControl.Winforms/150.1652.0": {
         "type": "package",
         "dependencies": {
@@ -613,7 +613,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8/win-x86": {
+    ".NETFramework,Version=v4.7.2/win-x86": {
       "Microsoft.ReportingServices.ReportViewerControl.Winforms/150.1652.0": {
         "type": "package",
         "dependencies": {
@@ -854,7 +854,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.8": [
+    ".NETFramework,Version=v4.7.2": [
       "Microsoft.ReportingServices.ReportViewerControl.Winforms >= 150.1652.0",
       "Microsoft.SqlServer.Types >= 14.0.314.76"
     ]
@@ -883,14 +883,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net48"
+        "net472"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net48": {
+        "net472": {
           "projectReferences": {}
         }
       },
@@ -901,7 +901,7 @@
       }
     },
     "frameworks": {
-      "net48": {
+      "net472": {
         "dependencies": {
           "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
             "target": "Package",
